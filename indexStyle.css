@@ -1,0 +1,15 @@
+body {
+    font-family :'Tahoma' , 'Open Sans',sans-serif;
+    background : white;
+}
+h1 {
+    color : #200000;
+}
+.menu {
+    background-color :antiquewhite;
+    overflow :auto;
+   
+}
+    .menu ul {
+        text-align: center;
+    }
